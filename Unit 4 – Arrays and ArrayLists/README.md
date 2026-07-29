@@ -51,3 +51,7 @@ This project demonstrates:
 
 
 - `Unit4.java` – Source code for the Stock Price Analysis application.
+
+## Author
+
+**Nnadi Favour Iheoma**

@@ -39,3 +39,6 @@ java Unit3
 Learning Outcome
 This project strengthened my understanding of Java Object-Oriented Programming by applying encapsulation, class design, static methods, and menu-driven program development to build a simple student management application.
 
+## Author
+
+**Nnadi Favour Iheoma**

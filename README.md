@@ -20,4 +20,4 @@ Each unit focuses on a different Java programming concept and demonstrates pract
 
 ## Author
 
-Favour Nnadi
+**Nnadi Favour Iheoma**

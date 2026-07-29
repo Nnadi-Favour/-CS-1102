@@ -33,3 +33,7 @@ This project demonstrates the following Java concepts:
 ## File
 
 - `Unit1.java` – Source code for the Java Quiz Game.
+
+## Author
+
+**Nnadi Favour Iheoma**
