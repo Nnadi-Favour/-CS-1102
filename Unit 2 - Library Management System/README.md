@@ -39,3 +39,7 @@ This project demonstrates:
 ## File
 
 - `Unit2.java` – Source code for the Library Management System.
+
+## Author
+
+**Nnadi Favour Iheoma**
